@@ -1,7 +1,34 @@
 # hello-world
 Just another repository
 
-## Citation
+## Installation
+
+### Requirements
+- Hello-world
+- PyTorch ≥ X.X and [torchvision](https://github.com/pytorch/vision/)
+- `pip install hello-world`
+
+### Example conda environment setup
+```bash
+conda create --name hello python=3.8 -y
+cd hello/world
+sh hello.sh
 ```
-@Hello-world
+
+## Results and Models
+| Backbone     | Style     | AP      | 
+|:------------:|:---------:|:-------:|
+| R-50         | pytorch   | Y       | 
+| R-50         | pytorch   | Y       |
+| R-50         | pytorch   | Y       |
+ 
+
+## Citation
+```BibTeX
+@Hello-world{hello,
+  title={hello},
+  author={hello},
+  journal={hello},
+  year={hello}
+}
 ```
