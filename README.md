@@ -25,7 +25,7 @@ sh hello.sh
 
 ## Citation
 ```BibTeX
-@Hello-world{hello,
+@inproceedings{hello-world,
   title={hello},
   author={hello},
   journal={hello},
