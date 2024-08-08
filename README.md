@@ -6,6 +6,11 @@ Just another repository
   <p>Python logo.</p>
 </div>
 
+<div align="center">
+  <img src="./images/python_logo.png" width="100%" height="100%" />
+  <p>Python logo2.</p>
+</div>
+
 ## Installation
 
 ### Requirements
