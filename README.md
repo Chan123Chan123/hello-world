@@ -2,7 +2,7 @@
 Just another repository
 
 <div align="center">
-  <img src="python_logo.png" width="600px" />
+  <img src="./images/python_logo.png" width="600px" />
   <p>Python logo.</p>
 </div>
 
